@@ -193,3 +193,13 @@ I cannot assess the quality of this translation.
 It's quite fascinating to witness text being translated. I'm not naive enough to believe that I'm the first person to have thought of the concept of using ML algorithms to translate scripture. I'm certain that others have been employing similar methodologies. I presume there exists quality issue for many languages. It's essential to always have a human reviewer involved; after all, we are dealing with the word of God, and accuracy is paramount. However, what I hope to demonstrate is that modern machine learning algorithms can take us a considerable distance. Perhaps the translation accuracy reaches around 80%, necessitating human review. I'm confident that the process of reviewing and making adjustments is far more manageable than starting from scratch.
 
 There is immense potential to develop tools that can significantly aid the translation efforts for languages lacking any scriptural content.
+
+# Citation
+
+```
+@article{nllb2022,
+  title={No Language Left Behind: Scaling Human-Centered Machine Translation},
+  author={{NLLB Team} and Costa-jussà, Marta R. and Cross, James and Çelebi, Onur and Elbayad, Maha and Heafield, Kenneth and Heffernan, Kevin and Kalbassi, Elahe and Lam, Janice and Licht, Daniel and Maillard, Jean and Sun, Anna and Wang, Skyler and Wenzek, Guillaume and Youngblood, Al and Akula, Bapi and Barrault, Loic and Mejia-Gonzalez, Gabriel and Hansanti, Prangthip and Hoffman, John and Jarrett, Semarley and Sadagopan, Kaushik Ram and Rowe, Dirk and Spruit, Shannon and Tran, Chau and Andrews, Pierre and Ayan, Necip Fazil and Bhosale, Shruti and Edunov, Sergey and Fan, Angela and Gao, Cynthia and Goswami, Vedanuj and Guzmán, Francisco and Koehn, Philipp and Mourachko, Alexandre and Ropers, Christophe and Saleem, Safiyyah and Schwenk, Holger and Wang, Jeff},
+  year={2022}
+}
+```
