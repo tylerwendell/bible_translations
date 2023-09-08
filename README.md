@@ -9,6 +9,7 @@
   - [Original Greek to English](#original-greek-to-english)
   - [Original Greek to Iraq Arabic, Mesopotamian \[acm\]](#original-greek-to-iraq-arabic-mesopotamian-acm)
 - [Discussion](#discussion)
+- [Citation](#citation)
 
 # My Initial Thoughts
 While the field of machine translation research is still in a growth phase, it has matured enough to be used to build tools that could have an enormous benefit for the mission of bringing God's word to every language.
@@ -58,7 +59,7 @@ To answer this question I am going to use two datasets:
 
 2. Meta's own list of supported languages, found [here](https://ai.meta.com/research/no-language-left-behind/) and [here](https://github.com/facebookresearch/flores/blob/main/flores200/README.md).
 
-Full code can be found on [this](https://drive.google.com/file/d/1n4wE-5H4VYjT3kmBEleqVR8wIauvFKwA/view?usp=sharing) colab notebook. 
+Full code can be found on [this](https://colab.research.google.com/gist/tylerwendell/612f1425587cc04d8e92644137edee70/machine-translation.ipynb) colab notebook.
 
 
 Load Progress.bibles data
@@ -133,7 +134,6 @@ Output:
 61 Languages that could be helped right now!
 323,000,000 - 562,245,000 people could receive the word of God!
 ```
-
 
 # Sample Translation
 

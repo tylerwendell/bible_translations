@@ -1,0 +1,710 @@
+{
+	"bible": [
+		{
+			"book": "Genesis",
+			"abrev": [
+				"Gen.",
+				"Ge.",
+				"Gn."
+			]
+		},
+		{
+			"book": "Exodus",
+			"abrev": [
+				"Ex.",
+				"Exod.",
+				"Exo."
+			]
+		},
+		{
+			"book": "Leviticus",
+			"abrev": [
+				"Lev.",
+				"Le.",
+				"Lv."
+			]
+		},
+		{
+			"book": "Numbers",
+			"abrev": [
+				"Num.",
+				"Nu.",
+				"Nm.",
+				"Nb."
+			]
+		},
+		{
+			"book": "Deuteronomy",
+			"abrev": [
+				"Deut.",
+				"De.",
+				"Dt."
+			]
+		},
+		{
+			"book": "Joshua",
+			"abrev": [
+				"Josh.",
+				"Jos.",
+				"Jsh."
+			]
+		},
+		{
+			"book": "Judges",
+			"abrev": [
+				"Judg.",
+				"Jdg.",
+				"Jg.",
+				"Jdgs."
+			]
+		},
+		{
+			"book": "Ruth",
+			"abrev": [
+				"Ruth",
+				"Rth.",
+				"Ru."
+			]
+		},
+		{
+			"book": "1 Samuel",
+			"abrev": [
+				"1 Sam.",
+				"1 Sm.",
+				"1 Sa.",
+				"1 S.",
+				"I Sam.",
+				"I Sa.",
+				"1Sam.",
+				"1Sa.",
+				"1S.",
+				"1st Samuel",
+				"1st Sam.",
+				"First Samuel",
+				"First Sam."
+			]
+		},
+		{
+			"book": "2 Samuel",
+			"abrev": [
+				"2 Sam.",
+				"2 Sm.",
+				"2 Sa.",
+				"2 S.",
+				"II Sam.",
+				"II Sa.",
+				"2Sam.",
+				"2Sa.",
+				"2S.",
+				"2nd Samuel",
+				"2nd Sam.",
+				"Second Samuel",
+				"Second Sam."
+			]
+		},
+		{
+			"book": "1 Kings",
+			"abrev": [
+				"1 Kings",
+				"1 Kgs",
+				"1 Ki",
+				"1Kgs",
+				"1Kin",
+				"1Ki",
+				"1K",
+				"I Kgs",
+				"I Ki",
+				"1st Kings",
+				"1st Kgs",
+				"First Kings",
+				"First Kgs"
+			]
+		},
+		{
+			"book": "2 Kings",
+			"abrev": [
+				"2 Kings",
+				"2 Kgs.",
+				"2 Ki.",
+				"2Kgs.",
+				"2Kin.",
+				"2Ki.",
+				"2K.",
+				"II Kgs.",
+				"II Ki.",
+				"2nd Kings",
+				"2nd Kgs.",
+				"Second Kings",
+				"Second Kgs."
+			]
+		},
+		{
+			"book": "1 Chronicles",
+			"abrev": [
+				"1 Chron.",
+				"1 Chr.",
+				"1 Ch.",
+				"1Chron.",
+				"1Chr.",
+				"1Ch.",
+				"I Chron.",
+				"I Chr.",
+				"I Ch.",
+				"1st Chronicles",
+				"1st Chron.",
+				"First Chronicles",
+				"First Chron."
+			]
+		},
+		{
+			"book": "2 Chronicles",
+			"abrev": [
+				"2 Chron.",
+				"2 Chr.",
+				"2 Ch.",
+				"2Chron.",
+				"2Chr.",
+				"2Ch.",
+				"II Chron.",
+				"II Chr.",
+				"II Ch.",
+				"2nd Chronicles",
+				"2nd Chron.",
+				"Second Chronicles",
+				"Second Chron."
+			]
+		},
+		{
+			"book": "Ezra",
+			"abrev": [
+				"Ezra",
+				"Ezr.",
+				"Ez."
+			]
+		},
+		{
+			"book": "Nehemiah",
+			"abrev": [
+				"Neh.",
+				"Ne."
+			]
+		},
+		{
+			"book": "Esther",
+			"abrev": [
+				"Est.",
+				"Esth.",
+				"Es."
+			]
+		},
+		{
+			"book": "Job",
+			"abrev": [
+				"Job",
+				"Jb."
+			]
+		},
+		{
+			"book": "Psalms",
+			"abrev": [
+				"Ps.",
+				"Psalm",
+				"Pslm.",
+				"Psa.",
+				"Psm.",
+				"Pss."
+			]
+		},
+		{
+			"book": "Proverbs",
+			"abrev": [
+				"Prov",
+				"Pro.",
+				"Prv.",
+				"Pr."
+			]
+		},
+		{
+			"book": "Ecclesiastes",
+			"abrev": [
+				"Eccles.",
+				"Eccle.",
+				"Ecc.",
+				"Ec.",
+				"Qoh."
+			]
+		},
+		{
+			"book": "Song of Solomon",
+			"abrev": [
+				"Song",
+				"Song of Songs",
+				"SOS.",
+				"So.",
+				"Canticle of Canticles",
+				"Canticles",
+				"Cant."
+			]
+		},
+		{
+			"book": "Isaiah",
+			"abrev": [
+				"Isa.",
+				"Is."
+			]
+		},
+		{
+			"book": "Jeremiah",
+			"abrev": [
+				"Jer.",
+				"Je.",
+				"Jr."
+			]
+		},
+		{
+			"book": "Lamentations",
+			"abrev": [
+				"Lam.",
+				"La."
+			]
+		},
+		{
+			"book": "Ezekiel",
+			"abrev": [
+				"Ezek.",
+				"Eze.",
+				"Ezk."
+			]
+		},
+		{
+			"book": "Daniel",
+			"abrev": [
+				"Dan.",
+				"Da.",
+				"Dn."
+			]
+		},
+		{
+			"book": "Hosea",
+			"abrev": [
+				"Hos.",
+				"Ho."
+			]
+		},
+		{
+			"book": "Joel",
+			"abrev": [
+				"Joel",
+				"Jl."
+			]
+		},
+		{
+			"book": "Amos",
+			"abrev": [
+				"Amos",
+				"Am."
+			]
+		},
+		{
+			"book": "Obadiah",
+			"abrev": [
+				"Obad.",
+				"Ob."
+			]
+		},
+		{
+			"book": "Jonah",
+			"abrev": [
+				"Jonah",
+				"Jnh.",
+				"Jon."
+			]
+		},
+		{
+			"book": "Micah",
+			"abrev": [
+				"Mic.",
+				"Mc."
+			]
+		},
+		{
+			"book": "Nahum",
+			"abrev": [
+				"Nah.",
+				"Na."
+			]
+		},
+		{
+			"book": "Habakkuk",
+			"abrev": [
+				"Hab.",
+				"Hb."
+			]
+		},
+		{
+			"book": "Zephaniah",
+			"abrev": [
+				"Zeph.",
+				"Zep.",
+				"Zp."
+			]
+		},
+		{
+			"book": "Haggai",
+			"abrev": [
+				"Hag.",
+				"Hg."
+			]
+		},
+		{
+			"book": "Zechariah",
+			"abrev": [
+				"Zech.",
+				"Zec.",
+				"Zc."
+			]
+		},
+		{
+			"book": "Malachi",
+			"abrev": [
+				"Mal.",
+				"Ml."
+			]
+		},
+		{
+			"book": "Matthew",
+			"abrev": [
+				"Matt.",
+				"Mt."
+			]
+		},
+		{
+			"book": "Mark",
+			"abrev": [
+				"Mark",
+				"Mrk",
+				"Mar",
+				"Mk",
+				"Mr"
+			]
+		},
+		{
+			"book": "Luke",
+			"abrev": [
+				"Luke",
+				"Luk",
+				"Lk"
+			]
+		},
+		{
+			"book": "John",
+			"abrev": [
+				"John",
+				"Joh",
+				"Jhn",
+				"Jn"
+			]
+		},
+		{
+			"book": "Acts",
+			"abrev": [
+				"Acts",
+				"Act",
+				"Ac"
+			]
+		},
+		{
+			"book": "Romans",
+			"abrev": [
+				"Rom.",
+				"Ro.",
+				"Rm."
+			]
+		},
+		{
+			"book": "1 Corinthians",
+			"abrev": [
+				"1 Cor.",
+				"1 Co.",
+				"I Cor.",
+				"I Co.",
+				"1Cor.",
+				"1Co.",
+				"I Corinthians",
+				"1Corinthians",
+				"1st Corinthians",
+				"First Corinthians"
+			]
+		},
+		{
+			"book": "2 Corinthians",
+			"abrev": [
+				"2 Cor.",
+				"2 Co.",
+				"II Cor.",
+				"II Co.",
+				"2Cor.",
+				"2Co.",
+				"II Corinthians",
+				"2Corinthians",
+				"2nd Corinthians",
+				"Second Corinthians"
+			]
+		},
+		{
+			"book": "Galatians",
+			"abrev": [
+				"Gal.",
+				"Ga."
+			]
+		},
+		{
+			"book": "Ephesians",
+			"abrev": [
+				"Eph.",
+				"Ephes."
+			]
+		},
+		{
+			"book": "Philippians",
+			"abrev": [
+				"Phil.",
+				"Php.",
+				"Pp."
+			]
+		},
+		{
+			"book": "Colossians",
+			"abrev": [
+				"Col.",
+				"Co."
+			]
+		},
+		{
+			"book": "1 Thessalonians",
+			"abrev": [
+				"1 Thess.",
+				"1 Thes.",
+				"1 Th.",
+				"I Thessalonians",
+				"I Thess.",
+				"I Thes.",
+				"I Th.",
+				"1Thessalonians",
+				"1Thess.",
+				"1Thes.",
+				"1Th.",
+				"1st Thessalonians",
+				"1st Thess.",
+				"First Thessalonians",
+				"First Thess."
+			]
+		},
+		{
+			"book": "2 Thessalonians",
+			"abrev": [
+				"2 Thess.",
+				"2 Thes.",
+				"2 Th.",
+				"II Thessalonians",
+				"II Thess.",
+				"II Thes.",
+				"II Th.",
+				"2Thessalonians",
+				"2Thess.",
+				"2Thes.",
+				"2Th.",
+				"2nd Thessalonians",
+				"2nd Thess.",
+				"Second Thessalonians",
+				"Second Thess."
+			]
+		},
+		{
+			"book": "1 Timothy",
+			"abrev": [
+				"1 Tim.",
+				"1 Ti.",
+				"I Timothy",
+				"I Tim.",
+				"I Ti.",
+				"1Timothy",
+				"1Tim.",
+				"1Ti.",
+				"1st Timothy",
+				"1st Tim.",
+				"First Timothy",
+				"First Tim."
+			]
+		},
+		{
+			"book": "2 Timothy",
+			"abrev": [
+				"2 Tim.",
+				"2 Ti.",
+				"II Timothy",
+				"II Tim.",
+				"II Ti.",
+				"2Timothy",
+				"2Tim.",
+				"2Ti.",
+				"2nd Timothy",
+				"2nd Tim.",
+				"Second Timothy",
+				"Second Tim."
+			]
+		},
+		{
+			"book": "Titus",
+			"abrev": [
+				"Titus",
+				"Tit",
+				"ti"
+			]
+		},
+		{
+			"book": "Philemon",
+			"abrev": [
+				"Philem.",
+				"Phm.",
+				"Pm."
+			]
+		},
+		{
+			"book": "Hebrews",
+			"abrev": [
+				"Heb"
+			]
+		},
+		{
+			"book": "James",
+			"abrev": [
+				"James",
+				"Jas",
+				"Jm"
+			]
+		},
+		{
+			"book": "1 Peter",
+			"abrev": [
+				"1 Pet.",
+				"1 Pe.",
+				"1 Pt.",
+				"1 P.",
+				"I Pet.",
+				"I Pt.",
+				"I Pe.",
+				"1Peter",
+				"1Pet.",
+				"1Pe.",
+				"1Pt.",
+				"1P.",
+				"I Peter",
+				"1st Peter",
+				"First Peter"
+			]
+		},
+		{
+			"book": "2 Peter",
+			"abrev": [
+				"2 Pet.",
+				"2 Pe.",
+				"2 Pt.",
+				"2 P.",
+				"II Peter",
+				"II Pet.",
+				"II Pt.",
+				"II Pe.",
+				"2Peter",
+				"2Pet.",
+				"2Pe.",
+				"2Pt.",
+				"2P.",
+				"2nd Peter",
+				"Second Peter"
+			]
+		},
+		{
+			"book": "1 John",
+			"abrev": [
+				"1 John",
+				"1 Jhn.",
+				"1 Jn.",
+				"1 J.",
+				"1John",
+				"1Jhn.",
+				"1Joh.",
+				"1Jn.",
+				"1Jo.",
+				"1J.",
+				"I John",
+				"I Jhn.",
+				"I Joh.",
+				"I Jn.",
+				"I Jo.",
+				"1st John",
+				"First John"
+			]
+		},
+		{
+			"book": "2 John",
+			"abrev": [
+				"2 John",
+				"2 Jhn.",
+				"2 Jn.",
+				"2 J.",
+				"2John",
+				"2Jhn.",
+				"2Joh.",
+				"2Jn.",
+				"2Jo.",
+				"2J.",
+				"II John",
+				"II Jhn.",
+				"II Joh.",
+				"II Jn.",
+				"II Jo.",
+				"2nd John",
+				"Second John"
+			]
+		},
+		{
+			"book": "3 John",
+			"abrev": [
+				"3 John",
+				"3 Jhn.",
+				"3 Jn.",
+				"3 J.",
+				"3John",
+				"3Jhn.",
+				"3Joh.",
+				"3Jn.",
+				"3Jo.",
+				"3J.",
+				"III John",
+				"III Jhn.",
+				"III Joh.",
+				"III Jn.",
+				"III Jo.",
+				"3rd John",
+				"Third John"
+			]
+		},
+		{
+			"book": "Jude",
+			"abrev": [
+				"Jude",
+				"Jud.",
+				"Jd."
+			]
+		},
+		{
+			"book": "Revelation",
+			"abrev": [
+				"Rev",
+				"Re",
+				"The Revelation"
+			]
+		}
+	]
+}
